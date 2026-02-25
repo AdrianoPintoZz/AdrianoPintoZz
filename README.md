@@ -99,17 +99,3 @@
 | 🔥 **pfSense** | Network Security & Firewall |
 | 🐧 **Linux** | System Administration & Security |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianoPintoZz&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoPintoZz&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <em>Open to collaborations and new opportunities! Feel free to reach out 🚀</em>
-</p>
