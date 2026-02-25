@@ -21,6 +21,7 @@
 **Frontend and Frameworks**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Backend & APIs**
@@ -55,10 +56,10 @@
 
 ## 🚀 Featured Projects
 
-### 🏎️ [F1 Constructor Predictor](https://github.com/AdrianoPintoZz/F1_Constructor_Predictor)
-> An **AI/ML model** that predicts Formula 1 Constructor Championship standings.
-> **Stack:** Python · Scikit-learn · Pandas · NumPy
-> Trained on real F1 data from 2021–2024, using metrics like points per race, reliability rate, grid position and championship momentum to predict the season winner.
+### ☁️ [CCDH – Centralized Climate Data Hub](https://github.com/AdrianoPintoZz/IterativeAdvancedSystemProject)
+> A unified **cross-platform climate intelligence platform** with real-time weather monitoring, climate news aggregation, and 130+ years of historical analysis.
+> **Stack:** Flutter · Dart · Supabase · PostgreSQL · Apache Airflow · Python · Open-Meteo API · NewsAPI
+> Features live weather for 30+ cities, 673+ climate news articles with NLP classification, smart alerts with custom thresholds, and interactive historical trend analysis with CSV/PDF export.
 
 ---
 
@@ -83,12 +84,21 @@
 
 ---
 
+
+### 🏎️ [F1 Constructor Predictor](https://github.com/AdrianoPintoZz/F1_Constructor_Predictor)
+> An **AI/ML model** that predicts Formula 1 Constructor Championship standings.
+> **Stack:** Python · Scikit-learn · Pandas · NumPy
+> Trained on real F1 data from 2021–2024, using metrics like points per race, reliability rate, grid position and championship momentum to predict the season winner.
+
+> ---
+
 ### 🎮 [PokéDream – Pokémon Team Generator](https://github.com/AdrianoPintoZz/Pokemon-Team-Make)
 > A fun **Streamlit app** that builds a smart Pokémon team from gen 1–6 based on your preferences.
 > **Stack:** Python · Streamlit · Pandas
 > Filters by type, stats, generation and legendary status.
 
 ---
+
 
 ## 🔒 Cybersecurity Experience
 
